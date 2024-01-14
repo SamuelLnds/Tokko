@@ -1,0 +1,8 @@
+@import '__variables.scss';
+@import '__fonts.scss';
+
+main {
+    margin-top: 9rem;
+    @include center-max-width;
+    text-align: center;
+}

@@ -1,0 +1,32 @@
+<svg width="182" height="182" viewBox="0 0 182 182" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Plan&#195;&#168;te">
+<g id="Carr&#195;&#169;">
+<rect id="Rectangle 13" y="91.0001" width="128.693" height="128.693" rx="20" transform="rotate(-45 0 91.0001)" fill="url(#paint0_linear_46_196)"/>
+<g id="Mask group">
+<mask id="mask0_46_196" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="8" width="166" height="166">
+<rect id="Rectangle 14" y="91" width="128.693" height="128.693" rx="20" transform="rotate(-45 0 91)" fill="url(#paint1_linear_46_196)"/>
+</mask>
+<g mask="url(#mask0_46_196)">
+<circle id="Ellipse 3" cx="42.9121" cy="110.786" r="56.3748" fill="#FCFCFC" fill-opacity="0.2"/>
+<ellipse id="Ellipse 4" cx="86.3906" cy="20.976" rx="56.3748" ry="78.532" transform="rotate(-79.4693 86.3906 20.976)" fill="#FCFCFC" fill-opacity="0.2"/>
+<ellipse id="Ellipse 5" cx="30.5937" cy="98.3502" rx="56.3748" ry="106.299" transform="rotate(10.2239 30.5937 98.3502)" fill="#FCFCFC" fill-opacity="0.2"/>
+</g>
+</g>
+</g>
+<path id="Vector 9" d="M101.233 171.767L71.996 114.024L108.542 80.4016L169.94 103.06L101.233 171.767Z" fill="#FCFCFC" fill-opacity="0.8"/>
+<g id="&#240;&#159;&#166;&#134; icon &#34;Envira Gallery&#34;">
+<path id="Vector 10" d="M107.507 114.901L46.4309 80.2878L54.8832 76.4384L107.767 91.2703L121.61 110.91L107.507 114.901Z" fill="#FCFCFC"/>
+<path id="Vector" d="M40.2008 78.2606C113.893 44.6991 118.908 101.117 122.404 108.59L140.588 115.423L136.576 117.251L120.745 111.288C115.021 114.672 103.959 125.316 85.0824 120.685C66.1754 116.068 60.9735 102.6 40.2008 78.2606ZM55.7082 79.7083C46.3998 79.6 55.5479 81.4833 55.5479 81.4833C64.6993 83.0877 70.8744 88.138 77.8323 93.5164C86.8936 100.527 99.7704 109.37 111.784 109.079C123.768 108.802 117.934 108.591 112.117 107.355C106.286 106.088 95.5229 98.817 88.9903 93.7999C79.9122 86.834 71.3021 79.9141 55.7082 79.7083Z" fill="#282662"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_46_196" x1="-40.0552" y1="163.099" x2="306.487" y2="155.605" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE4F6"/>
+<stop offset="1" stop-color="#282662"/>
+</linearGradient>
+<linearGradient id="paint1_linear_46_196" x1="64.1484" y1="266.426" x2="58.7936" y2="45.6923" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE4F6"/>
+<stop offset="1" stop-color="#282662"/>
+</linearGradient>
+</defs>
+</svg>

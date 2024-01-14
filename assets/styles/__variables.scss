@@ -1,0 +1,33 @@
+$clr-1: rgba(40, 38, 98, 1);
+$clr-2: rgba(237, 244, 237, 1);
+$clr-3: rgba(53, 133, 88, 1);
+$clr-4: rgba(255, 228, 246, 1);
+$clr-5: rgba(197, 65, 98, 1);
+$clr-6: rgba(252, 252, 252, 1);
+$clr-7: rgba(40, 40, 40, 1);
+$clr-8: rgba(240, 240, 240, 1);
+
+@mixin light-theme {
+    background-color: $clr-6;
+    color: $clr-7;
+}
+
+@mixin dark-theme {
+    background-color: $clr-7;
+    color: $clr-6
+} 
+
+$clr-profile-circle: rgba(252, 252, 252, .05);
+
+@mixin center-max-width {
+    width: 1212px;
+    max-width: 1212px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+$clr-footer-ctner: rgb(85, 83, 142);
+
+$clr-placeholder: rgba(106, 106, 106, 1);
+
+$clr-grayed: #B4B4B4;
